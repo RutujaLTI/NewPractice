@@ -1,0 +1,7 @@
+F:\LTI\GIT\CollabCode\CollabCode\bin\Debug\CollabCode.exe.config
+F:\LTI\GIT\CollabCode\CollabCode\bin\Debug\CollabCode.exe
+F:\LTI\GIT\CollabCode\CollabCode\bin\Debug\CollabCode.pdb
+F:\LTI\GIT\CollabCode\CollabCode\obj\Debug\CollabCode.csprojAssemblyReference.cache
+F:\LTI\GIT\CollabCode\CollabCode\obj\Debug\CollabCode.csproj.CoreCompileInputs.cache
+F:\LTI\GIT\CollabCode\CollabCode\obj\Debug\CollabCode.exe
+F:\LTI\GIT\CollabCode\CollabCode\obj\Debug\CollabCode.pdb
