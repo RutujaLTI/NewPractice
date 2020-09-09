@@ -22,6 +22,8 @@ namespace CollabCode
                     {
                         new Program().sum(num1, num2);
                         new Program().product(num1, num2);
+						new Program().diff(num1, num2);
+                        new Program().div(num1, num2);
                         Console.ReadKey();
                         break;
                     }
@@ -35,16 +37,23 @@ namespace CollabCode
                 }
             }
             
-
         }
 
         public void sum(double num1, double num2)
         {
-            Console.WriteLine("Sum is "+num1+num2);
+            Console.WriteLine("Sum is "+ (num1+num2));
         }
         public void product(double num1, double num2)
         {
-            Console.WriteLine("Product is "+num1 * num2);
+            Console.WriteLine("Product is "+ (num1 * num2));
+        }
+        public void diff(double num1,double num2)
+        {
+            Console.WriteLine("Difference is " + (num1-num2));
+        }
+        public void div(double num1, double num2)
+        {
+            Console.WriteLine("Division is " + (num1 / num2));
         }
     }
 }
